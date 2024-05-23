@@ -2,7 +2,7 @@
 
 [[Paper]]() 
 
-<p align="center">  <img src="https://github.com/YUCHEN005/STAR-Adapt/blob/master/star.png" height ="180"> </p>
+<p align="center">  <img src="https://github.com/YUCHEN005/STAR-Adapt/blob/master/star.png" height ="170"> </p>
 
 This work proposes a source-free unsupervised domain adaptation approach for speech foundation models.
 
