@@ -1,6 +1,6 @@
 # Self-Taught Recognizer: Toward Unsupervised Adaptation for Speech Foundation Models
 
-[[Paper]]() 
+[[Paper]](https://arxiv.org/pdf/2405.14161) 
 
 <p align="center">  <img src="https://github.com/YUCHEN005/STAR-Adapt/blob/master/star.png" height ="170"> </p>
 
@@ -61,7 +61,7 @@ We kindly hope you can cite our paper in your publication when using our researc
 @article{hu2024self,
   title={Self-Taught Recognizer: Toward Unsupervised Adaptation for Speech Foundation Models},
   author={Hu, Yuchen and Chen, Chen and Yang, Chao-Han Huck and Qin, Chengwei and Chen, Pin-Yu and Chng, Eng Siong and Zhang, Chao},
-  journal={arXiv preprint arXiv:2405},
+  journal={arXiv preprint arXiv:2405.14161},
   year={2024}
 }
 ```
